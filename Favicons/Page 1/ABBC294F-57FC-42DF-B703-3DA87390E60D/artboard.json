@@ -59,7 +59,7 @@
   ],
   "name": "favicon-96x96",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
