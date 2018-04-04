@@ -58,7 +58,7 @@
   ],
   "name": "ms-icon-144x144",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
